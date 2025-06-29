@@ -4,7 +4,8 @@
     "strict": true,
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+    "module": "CommonJS"
   },
   "include": [
     "**/*.ts",
